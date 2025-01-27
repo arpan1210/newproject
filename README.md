@@ -1,1 +1,7 @@
-# newproject
+numpy
+scikit-learn
+matplotlib
+pandas
+streamlit
+xgboost
+vectorizer
